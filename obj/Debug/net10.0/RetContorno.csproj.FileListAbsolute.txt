@@ -1,0 +1,15 @@
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/bin/Debug/net10.0/RetContorno
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/bin/Debug/net10.0/RetContorno.deps.json
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/bin/Debug/net10.0/RetContorno.runtimeconfig.json
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/bin/Debug/net10.0/RetContorno.dll
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/bin/Debug/net10.0/RetContorno.pdb
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.AssemblyInfoInputs.cache
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.AssemblyInfo.cs
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.csproj.CoreCompileInputs.cache
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.sourcelink.json
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.dll
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/refint/RetContorno.dll
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.pdb
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/RetContorno.genruntimeconfig.cache
+/run/media/dxavierNihil/EBBD-F04B/ETEC/Programacao/RetContorno/obj/Debug/net10.0/ref/RetContorno.dll
